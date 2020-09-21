@@ -1,0 +1,1 @@
+先clone下来 ，执行npm i，在执行node server2.js
